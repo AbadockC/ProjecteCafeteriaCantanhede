@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/foodFragment"
+        android:enabled="true"
+        android:icon="@drawable/fastfood_vectorial"
+        android:title="@string/menjar" />
+    <item
+        android:id="@+id/drinksFragment"
+        android:enabled="true"
+        android:icon="@drawable/cafe_vectorial"
+        android:title="@string/begudes" />
+    <item
+        android:id="@+id/dessertsFragment"
+        android:enabled="true"
+        android:icon="@drawable/cake_vectorial"
+        android:title="@string/postres" />
+    <item
+        android:id="@+id/paymentFragment"
+        android:enabled="true"
+        android:icon="@drawable/shopping_cart_vectorial"
+        android:title="@string/pagament" />
+</menu>

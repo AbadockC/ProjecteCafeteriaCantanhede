@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/coffe_cup_splashart" />
+    <foreground android:drawable="@drawable/coffe_cup_splashart" />
+    <monochrome android:drawable="@drawable/coffe_cup_splashart" />
+</adaptive-icon>
