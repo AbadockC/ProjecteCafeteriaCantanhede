@@ -16,8 +16,14 @@
         android:icon="@drawable/cake_vectorial"
         android:title="@string/postres" />
     <item
+        android:id="@+id/aperitiusFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_emoji_food_beverage_24"
+        android:title="@string/aperitius" />
+    <item
         android:id="@+id/paymentFragment"
         android:enabled="true"
         android:icon="@drawable/shopping_cart_vectorial"
         android:title="@string/pagament" />
+
 </menu>

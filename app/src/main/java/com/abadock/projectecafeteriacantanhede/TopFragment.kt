@@ -34,7 +34,6 @@ class TopFragment : Fragment() {
 
         cartviewModel.menu.observe(viewLifecycleOwner) {
             binding.totalPreuTop.text = "${cartviewModel.getPrice()} €"
-            binding.quantitatProductesTop.text = "${cartviewModel.getQuantity()}"
         }
 
 
